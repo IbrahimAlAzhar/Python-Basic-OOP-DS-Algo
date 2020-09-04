@@ -1,0 +1,1 @@
+The very powerful language on data science is python.We can also use R in place of python in Data science manipulation.
